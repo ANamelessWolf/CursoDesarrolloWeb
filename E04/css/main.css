@@ -1,0 +1,15 @@
+html {
+    font-size: 16px;
+}
+
+#tamPixeles {
+    font-size: 20px;
+}
+
+#tamRem {
+    font-size: 2rem;
+}
+
+#tamEm {
+    font-size: 2em;
+}
