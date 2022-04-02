@@ -1,12 +1,12 @@
-# Modulo 1
+# Modulo 2
 
-En este módulo se estudiarán los conceptos básicos de HTML.
+En este módulo se estudiarán los conceptos básicos de CSS.
 
-Al final se tendra un página web que implemente todos estos principios sin estilo.
+Al final se tendra la pagina web creada en el módulo 1 con hojas de estilos.
 
 Los puntos a tratar son:
 
-- Introducción a HTML
+- Introducción a CSS
 - Manejo de textos
 - Organización del contenido
 - Navegación
