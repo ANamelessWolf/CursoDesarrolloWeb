@@ -13,4 +13,6 @@ En este Laboratorio el resultado del E04 del módulo `001_html_basics` tendremos
 - Centrar el título principal
 - Cambiar el tamaño del nombre 3.8 veces el tamaño definido por la etiqueta HTML
 - Cambiar a negritas el nombre y dejar normal el apellido
-
+- Definir una paleta de 5 colores, utilizando código Hexadecimal
+- Cambiar el tipo de fuente
+- Agregar un fondo a la barra de navegación
