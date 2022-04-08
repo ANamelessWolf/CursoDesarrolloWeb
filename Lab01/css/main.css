@@ -1,3 +1,11 @@
+:root {
+    --col-green: #1b998b;
+    --col-black: #2d3047;
+    --col-yellow: #fffd82;
+    --col-orange: #ff9b71;
+    --col-red: #e84855;
+}
+
 html {
     font-size: 62.5%;
 }
