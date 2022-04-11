@@ -5,22 +5,27 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="preload" href="../lib/normalize/normalize_8_0_1.css" type="text/css">
-    <link rel="preload" href="css/main.css" type="text/css">
+    <link rel="stylesheet" href="../lib/normalize/normalize_8_0_1.css" type="text/css">
+    <link rel="stylesheet" href="css/main.css" type="text/css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Karla:wght@300;700&display=swap" rel="stylesheet">
     <title>Mi página inicial</title>
 </head>
 
 <body>
     <header>
-        <h1>Miguel<span> Alanis</span></h1>
+        <h1 class="title">Miguel<span> Alanis</span></h1>
     </header>
 
-    <nav class="nav-bar">
-        <a href="index.html">Inicio</a>
-        <a href="about.html">Acerca de</a>
-        <a href="index.html#Contacto">Contacto</a>
-    </nav>
-
+    <!-- Se agrega un div para rellenar el contenido del nav-bar -->
+    <div class="nav-bg">
+        <nav class="container nav-bar">
+            <a href="index.html">Inicio</a>
+            <a href="about.html">Acerca de</a>
+            <a href="index.html#Contacto">Contacto</a>
+        </nav>
+    </div>
     <img src="img/banner.png">
 
     <section>
